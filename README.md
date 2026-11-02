@@ -27,15 +27,15 @@ Clone the repository and compile the source code:
 git clone [https://github.com/kaylawjy/Dining-Dollar-Tracker.git](https://github.com/kaylawjy/Dining-Dollar-Tracker.git)
 cd Dining-Dollar-Tracker
 javac -d bin src/*.java
-'''
+```
 
 ## Usage
 
 Run the compiled application from the project root:
 
-''' bash
+```bash
 java -cp bin Main
-'''
+```
 
 ## Roadmap
 
