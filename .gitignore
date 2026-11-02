@@ -1,0 +1,6 @@
+*.class
+bin/
+data/users/
+.DS_Store
+.idea/
+*.iml
